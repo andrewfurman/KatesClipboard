@@ -1,4 +1,4 @@
-🚀 RxClaims Development Guide
+
 📋 Overview
 This is a Python Flask application with a modern front-end implementation using Tailwind CSS.
 
